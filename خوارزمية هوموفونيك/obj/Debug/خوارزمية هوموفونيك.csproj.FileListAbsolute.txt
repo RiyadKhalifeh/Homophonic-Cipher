@@ -1,0 +1,8 @@
+c:\users\digitalnet\documents\visual studio 2012\Projects\خوارزمية هوموفونيك\خوارزمية هوموفونيك\obj\Debug\خوارزمية هوموفونيك.csprojResolveAssemblyReference.cache
+c:\users\digitalnet\documents\visual studio 2012\Projects\خوارزمية هوموفونيك\خوارزمية هوموفونيك\obj\Debug\خوارزمية_هوموفونيك.Form1.resources
+c:\users\digitalnet\documents\visual studio 2012\Projects\خوارزمية هوموفونيك\خوارزمية هوموفونيك\obj\Debug\خوارزمية_هوموفونيك.Properties.Resources.resources
+c:\users\digitalnet\documents\visual studio 2012\Projects\خوارزمية هوموفونيك\خوارزمية هوموفونيك\obj\Debug\خوارزمية هوموفونيك.csproj.GenerateResource.Cache
+c:\users\digitalnet\documents\visual studio 2012\Projects\خوارزمية هوموفونيك\خوارزمية هوموفونيك\bin\Debug\خوارزمية هوموفونيك.exe
+c:\users\digitalnet\documents\visual studio 2012\Projects\خوارزمية هوموفونيك\خوارزمية هوموفونيك\bin\Debug\خوارزمية هوموفونيك.pdb
+c:\users\digitalnet\documents\visual studio 2012\Projects\خوارزمية هوموفونيك\خوارزمية هوموفونيك\obj\Debug\خوارزمية هوموفونيك.exe
+c:\users\digitalnet\documents\visual studio 2012\Projects\خوارزمية هوموفونيك\خوارزمية هوموفونيك\obj\Debug\خوارزمية هوموفونيك.pdb
